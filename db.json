@@ -1,3 +1,18 @@
 {
-  "users": []
+  "users": [
+    {
+      "email": "brendo@email.com",
+      "password": "$2a$10$rN.YSILakuHRe9v/mzjaeeo7708MWiZsMljNA9CPEHrQAJLtiJ1XG",
+      "name": "Brendo Sousa",
+      "id": 1
+    }
+  ],
+  "networks": [
+    {
+      "network": "LinkedIn",
+      "link": "https://www.linkedin.com/in/brendo-sousa/",
+      "userId": 1,
+      "id": 1
+    }
+  ]
 }
